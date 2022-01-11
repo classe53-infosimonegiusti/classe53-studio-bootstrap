@@ -1,0 +1,19 @@
+[class*="container"] {
+    background-color: red;
+}
+
+.ms_purple {
+    background-color: purple;
+}
+
+.custom-range::-webkit-slider-thumb {
+    background: purple;
+}
+
+.custom-range::-moz-range-thumb {
+    background: purple;
+}
+
+.custom-range::-ms-thumb {
+    background: purple;
+}
